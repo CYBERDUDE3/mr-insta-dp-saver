@@ -6,7 +6,7 @@ from instaloader import Instaloader, Profile
 import time
 
 
-'''Coded by Anish Gowda 😃😃😃😃'''
+'''Coded by @FLIQ_YT ♥️'''
 L = Instaloader()
 TOKEN = os.getenv("BOT_TOKEN")
 APP_NAME = os.getenv("APP_NAME")
