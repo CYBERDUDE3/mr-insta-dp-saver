@@ -41,7 +41,7 @@ def start(update, context):
 
 
 def help_msg(update, context):
-    update.message.reply_text("Nothing to help ,This is way to simple 😂😂/n/n if you have any doubt ask @M_STER_TECH_GROUP")
+    update.message.reply_text("Nothing to help ,This is way to simple 😂😂      if you have any doubt ask @M_STER_TECH_GROUP")
 
 
 def contact(update, context):
