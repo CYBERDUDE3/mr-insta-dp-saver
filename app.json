@@ -1,7 +1,7 @@
 {
-    "name" : "Instagram DP Saver Bot",
+    "name" : "MR Insta DP Saver",
     "description" : "Simple telegram bot to get anyones instagram DP",
-    "repository" : "https://github.com/anishgowda21/Instagram_DP_Saver_Bot",
+    "repository" : "https://github.com/CYBERDUDE3/mr-insta-dp-saver",
     "keywords" : ["instagram" , "telegram" , "telegram bot", "python"],
     "env" : {
         "BOT_TOKEN" : {
@@ -14,7 +14,7 @@
         },
         "TELEGRAM_USERNAME" :{
             "description" : "Enter your telegram username",
-            "value" : ""
+            "value" : "M_STER_TECH"
         }
     }
 }
